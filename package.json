@@ -1,0 +1,8 @@
+{
+  "name": "corezoid-cron-next",
+  "version": "1.0.0",
+  "main": "usercode.js",
+  "dependencies": {
+    "cron-parser": "^4.6.2"
+  }
+}
