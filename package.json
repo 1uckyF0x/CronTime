@@ -4,6 +4,7 @@
   "main": "usercode.js",
   "dependencies": {
     "cron-parser": "^4.6.2",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
   }
 }
