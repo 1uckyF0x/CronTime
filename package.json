@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "usercode.js",
   "dependencies": {
-    "cron-parser": "^4.6.2"
+    "cron-parser": "^4.6.2",
+    "moment": "^2.29.4"
   }
 }
